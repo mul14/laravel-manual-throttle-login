@@ -1,6 +1,6 @@
 # Laravel - Manual Throttle Login Implementation
 
-Check `routes/web.php` file.
+Check [`routes/web.php`](routes/web.php) file.
 
 ## Installation
 
